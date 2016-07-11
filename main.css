@@ -1,3 +1,14 @@
 body{
-	background-color: #666699;
+	background-color: #eeeeee;
+}
+
+h1{
+	text-align: center;
+}
+
+.box{
+	border: 2pt solid#ffffff;
+	margin: 20px;
+	padding: 10px;
+	text-align: center;
 }
